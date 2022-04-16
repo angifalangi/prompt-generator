@@ -44,7 +44,7 @@ fn generate() {
 	let article_2 = choose_article(object);
 
 	println!(
-		"{} {} {} with {} {} {} {}",
+		"{} {} {} with {} {} {} {}.",
 		article_1,
 		adjective,
 		noun,

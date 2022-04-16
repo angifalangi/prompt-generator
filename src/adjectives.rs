@@ -1,3 +1,5 @@
+// Possible tone separation in future?
+
 pub static ADJECTIVES: &[&str] = &[
 	// positive tones
 	"agile",

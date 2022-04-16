@@ -48,7 +48,6 @@ pub static NOUNS: &[&str] = &[
 	"robot",
 	"sailor",
 	"slave",
-	"snake",
 	"sorcerer",
 	"sorceress",
 	"spirit",
